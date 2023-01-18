@@ -1,0 +1,33 @@
+/Users/vanessawharton/Prime Project Folder/Week Sixteen/See Sharp/bin/Debug/net7.0/appsettings.Development.json
+/Users/vanessawharton/Prime Project Folder/Week Sixteen/See Sharp/bin/Debug/net7.0/appsettings.json
+/Users/vanessawharton/Prime Project Folder/Week Sixteen/See Sharp/bin/Debug/net7.0/See Sharp
+/Users/vanessawharton/Prime Project Folder/Week Sixteen/See Sharp/bin/Debug/net7.0/See Sharp.deps.json
+/Users/vanessawharton/Prime Project Folder/Week Sixteen/See Sharp/bin/Debug/net7.0/See Sharp.runtimeconfig.json
+/Users/vanessawharton/Prime Project Folder/Week Sixteen/See Sharp/bin/Debug/net7.0/See Sharp.dll
+/Users/vanessawharton/Prime Project Folder/Week Sixteen/See Sharp/bin/Debug/net7.0/See Sharp.pdb
+/Users/vanessawharton/Prime Project Folder/Week Sixteen/See Sharp/bin/Debug/net7.0/Microsoft.AspNetCore.OpenApi.dll
+/Users/vanessawharton/Prime Project Folder/Week Sixteen/See Sharp/bin/Debug/net7.0/Microsoft.OpenApi.dll
+/Users/vanessawharton/Prime Project Folder/Week Sixteen/See Sharp/bin/Debug/net7.0/Swashbuckle.AspNetCore.Swagger.dll
+/Users/vanessawharton/Prime Project Folder/Week Sixteen/See Sharp/bin/Debug/net7.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/Users/vanessawharton/Prime Project Folder/Week Sixteen/See Sharp/bin/Debug/net7.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/Users/vanessawharton/Prime Project Folder/Week Sixteen/See Sharp/obj/Debug/net7.0/See Sharp.csproj.AssemblyReference.cache
+/Users/vanessawharton/Prime Project Folder/Week Sixteen/See Sharp/obj/Debug/net7.0/See Sharp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/vanessawharton/Prime Project Folder/Week Sixteen/See Sharp/obj/Debug/net7.0/See Sharp.AssemblyInfoInputs.cache
+/Users/vanessawharton/Prime Project Folder/Week Sixteen/See Sharp/obj/Debug/net7.0/See Sharp.AssemblyInfo.cs
+/Users/vanessawharton/Prime Project Folder/Week Sixteen/See Sharp/obj/Debug/net7.0/See Sharp.csproj.CoreCompileInputs.cache
+/Users/vanessawharton/Prime Project Folder/Week Sixteen/See Sharp/obj/Debug/net7.0/See Sharp.MvcApplicationPartsAssemblyInfo.cs
+/Users/vanessawharton/Prime Project Folder/Week Sixteen/See Sharp/obj/Debug/net7.0/See Sharp.MvcApplicationPartsAssemblyInfo.cache
+/Users/vanessawharton/Prime Project Folder/Week Sixteen/See Sharp/obj/Debug/net7.0/staticwebassets/msbuild.See Sharp.Microsoft.AspNetCore.StaticWebAssets.props
+/Users/vanessawharton/Prime Project Folder/Week Sixteen/See Sharp/obj/Debug/net7.0/staticwebassets/msbuild.build.See Sharp.props
+/Users/vanessawharton/Prime Project Folder/Week Sixteen/See Sharp/obj/Debug/net7.0/staticwebassets/msbuild.buildMultiTargeting.See Sharp.props
+/Users/vanessawharton/Prime Project Folder/Week Sixteen/See Sharp/obj/Debug/net7.0/staticwebassets/msbuild.buildTransitive.See Sharp.props
+/Users/vanessawharton/Prime Project Folder/Week Sixteen/See Sharp/obj/Debug/net7.0/staticwebassets.pack.json
+/Users/vanessawharton/Prime Project Folder/Week Sixteen/See Sharp/obj/Debug/net7.0/staticwebassets.build.json
+/Users/vanessawharton/Prime Project Folder/Week Sixteen/See Sharp/obj/Debug/net7.0/staticwebassets.development.json
+/Users/vanessawharton/Prime Project Folder/Week Sixteen/See Sharp/obj/Debug/net7.0/scopedcss/bundle/See Sharp.styles.css
+/Users/vanessawharton/Prime Project Folder/Week Sixteen/See Sharp/obj/Debug/net7.0/See Sharp.csproj.CopyComplete
+/Users/vanessawharton/Prime Project Folder/Week Sixteen/See Sharp/obj/Debug/net7.0/See Sharp.dll
+/Users/vanessawharton/Prime Project Folder/Week Sixteen/See Sharp/obj/Debug/net7.0/refint/See Sharp.dll
+/Users/vanessawharton/Prime Project Folder/Week Sixteen/See Sharp/obj/Debug/net7.0/See Sharp.pdb
+/Users/vanessawharton/Prime Project Folder/Week Sixteen/See Sharp/obj/Debug/net7.0/See Sharp.genruntimeconfig.cache
+/Users/vanessawharton/Prime Project Folder/Week Sixteen/See Sharp/obj/Debug/net7.0/ref/See Sharp.dll
