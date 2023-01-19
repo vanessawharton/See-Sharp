@@ -5,7 +5,7 @@ namespace SeeSharp.Services;
 public static class GlassesService
 {
     static List<Glasses> Glasses { get; }
-    static int nextId = 3;
+    static int nextId = 4;
     static GlassesService()
     {
         Glasses = new List<Glasses>
@@ -18,7 +18,7 @@ public static class GlassesService
 
     public static List<Glasses> GetAll() => Glasses;
 
-    public static Glasses? Get(int id) => Glasses.FirstOrDefault(p => p.Id == id);
+    public static Glasses? Get(int id) => Glasses.FirstOrDefault(g => g.Id == id);
 
     public static void Add(Glasses glasses)
     {
@@ -37,7 +37,7 @@ public static class GlassesService
 
     public static void Update(Glasses glasses)
     {
-        var index = Glasses.FindIndex(p => p.Id == glasses.Id);
+        var index = Glasses.FindIndex(g => g.Id == glasses.Id);
         if(index == -1)
             return;
 
